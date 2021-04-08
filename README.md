@@ -25,6 +25,6 @@
 
 ### GitHub Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=FelipeMoraisOC&count_private=true&theme=dracula&hide=contribs,prs)
+<!-- ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=FelipeMoraisOC&count_private=true&theme=dracula&hide=contribs,prs)
 
 
