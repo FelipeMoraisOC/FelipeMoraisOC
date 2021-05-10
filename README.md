@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemoraisoc@gmail.com)](mailto:felipemoraisoc@gmail.com)
 
 - 📌 São Paulo, Brasil.
-- 🔎 I'm currently looking for a Job.
+- 🔎 Currently looking for a Job.
 - 📬 How to reach me: felipemoraisoc@gmail.com.
 - ✏️ I'm doing my Final Paper.
 - 🤔 I still don't know how to use GitHub very well, so I'll be very thankful to be helped. 
