@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemoraisoc@gmail.com)](mailto:felipemoraisoc@gmail.com)
 
 - 📌 São Paulo, Brasil.
-- 🔎 Currently looking for a Job.
 - 📬 How to reach me: felipemoraisoc@gmail.com.
 - ✏️ I'm doing my Final Paper.
 - 🤔 I still don't know how to use GitHub very well, so I'll be very thankful to be helped. 
@@ -15,9 +14,10 @@
 ### Top Technologies
 
 <!--TODO: Make technologies links takes you to repositories-->
-
-[![React-Native Badge](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) [![Android-Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-BootStrap-6A429C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6A429C)](#)
+[![C# Badge](https://img.shields.io/badge/-Csharp-009404?style=for-the-badge&labelColor=black&logo=csharp&logoColor=009404)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-8993C1?style=for-the-badge&labelColor=black&logo=php&logoColor=8993C1)](#)
 
 ### Profile Visits
 
