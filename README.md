@@ -7,7 +7,7 @@
 - 📌 São Paulo, Brasil.
 - 📬 How to reach me: felipemoraisoc@gmail.com.
 - ✏️ I'm doing my Final Paper.
-- 🤔 I still don't know how to use GitHub very well, so I'll be very thankful to be helped. 
+- 🏆 Helping people to achieve their goals, is the best achievement.  
 
 
 
