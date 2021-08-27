@@ -15,9 +15,9 @@
 ### Top Technologies
 
 <!--TODO: Make technologies links takes you to repositories-->
+[![ASP .NET CORE Badge](https://img.shields.io/badge/-ASP_.NET_CORE-512BD4?style=for-the-badge&labelColor=white&logo=.net&logoColor=512BD4)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-BootStrap-6A429C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6A429C)](#)
-[![ASP .NET CORE Badge](https://img.shields.io/badge/-ASP_.NET_CORE-512BD4?style=for-the-badge&labelColor=white&logo=.net&logoColor=512BD4)](#)
 [![C# Badge](https://img.shields.io/badge/-Csharp-009404?style=for-the-badge&labelColor=black&logo=csharp&logoColor=009404)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-8993C1?style=for-the-badge&labelColor=black&logo=php&logoColor=8993C1)](#)
 
