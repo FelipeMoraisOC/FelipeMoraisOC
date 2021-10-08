@@ -16,6 +16,7 @@
 
 <!--TODO: Make technologies links takes you to repositories-->
 [![ASP .NET CORE Badge](https://img.shields.io/badge/-ASP_.NET_CORE-512BD4?style=for-the-badge&labelColor=white&logo=.net&logoColor=512BD4)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FF?style=for-the-badge&labelColor=white&logo=flutter&logoColor=45D1FF)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-BootStrap-6A429C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6A429C)](#)
 [![C# Badge](https://img.shields.io/badge/-Csharp-009404?style=for-the-badge&labelColor=black&logo=csharp&logoColor=009404)](#)
