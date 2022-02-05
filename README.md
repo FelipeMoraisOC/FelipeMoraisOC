@@ -23,13 +23,14 @@ Passionate about Software Development, beatifuls UI's and tech.
 [![C# Badge](https://img.shields.io/badge/-Csharp-009404?style=for-the-badge&labelColor=black&logo=csharp&logoColor=009404)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-8993C1?style=for-the-badge&labelColor=black&logo=php&logoColor=8993C1)](#)
 
+### GitHub Stats
 
-### Profile Visits
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=FelipeMoraisOC&count_private=true&theme=dracula&hide=contribs,prs)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FelipeMoraisOC)
+<!-- ### Profile Visits
 
-<!-- ### GitHub Stats
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=FelipeMoraisOC)  
 
-<!--  ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=FelipeMoraisOC&count_private=true&theme=dracula&hide=contribs,prs)
+
 
 
