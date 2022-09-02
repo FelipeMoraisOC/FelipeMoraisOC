@@ -1,14 +1,13 @@
 ## Hi! My name is Felipe Campos 
-IT technician at Colégio Univap - CTI from Brazil. 
+Computer Science Student at UTFPR. 
 Passionate about Software Development, beatifuls UI's and tech.
 
 [![Linekdin Badge](https://img.shields.io/badge/-Linekdin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/felipemoraisoc/)](https://www.linkedin.com/in/felipemoraisoc/) [![CodeWars Badge](https://img.shields.io/badge/-Codewars-grey?style=flat-square&logo=codewars&logoColor=red&link=https://www.codewars.com/users/FelipeMoraisOC)](https://www.codewars.com/users/FelipeMoraisOC) [![Workana Badge](https://img.shields.io/badge/-Workana-blue?style=flat-square&logo=google&logoColor=white&link=https:https://www.workana.com/freelancer/9242f2b66f39e5fcfe6e6fe9aee9e1dd)](https://www.workana.com/freelancer/9242f2b66f39e5fcfe6e6fe9aee9e1dd) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemoraisoc@gmail.com)](mailto:felipemoraisoc@gmail.com)
 
 - 💻 Front End ASP.NET developer | Flutter Developer.
-- 📌 São José dos Campos, São Paulo 🇧🇷.
+- 📌 Medianeira, Paraná 🇧🇷.
 - 📬 How to reach me: felipemoraisoc@gmail.com.
-- 🏠 Currently working home office at DNX Soluções Tecnológicas.
 - 🏆 It's not about the end, it's about the journey. 
 
 
